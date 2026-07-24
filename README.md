@@ -6,6 +6,4 @@
 
 I make software. I like the kind of work that starts with, "we're still doing this by hand."
 
-If the person using it has to fight it, we missed something.
-
 [dan.pe](https://dan.pe)
